@@ -1,0 +1,14 @@
+/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+.DS_Store
+.classpath
+.project
+.settings/
